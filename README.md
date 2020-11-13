@@ -1,2 +1,2 @@
-# hello-flask
-Hello world website using Flask
+# Flask URL Shortener
+ WIP haha
